@@ -1,6 +1,6 @@
 __pycache__/
 keys/*
-keys/.gitkeep
+!keys/.gitkeep
 *.pkl
 *.ipynb
 *.ipynb_checkpoints/
